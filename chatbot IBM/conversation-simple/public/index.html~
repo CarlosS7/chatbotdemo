@@ -1,0 +1,9 @@
+<head>
+<script type="text/javascript">
+function openpopup(address){
+window.open(address,address,"fullscreen=no,toolbar=no,status=no,scrollbars=yes, addressbar=no, resizable=no,width=400,height=600, top=70, left=950");
+}
+</script>
+</head>
+
+<a href="javascript: openpopup('/chatbot.html')"> Click here to open the page in a new window. </a>
